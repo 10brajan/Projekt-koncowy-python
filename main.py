@@ -1,4 +1,3 @@
-# Plik: main.py
 from display import run_application
 
 def main():
